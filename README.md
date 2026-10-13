@@ -11,7 +11,7 @@ A Windows Phone 10 style home screen launcher for Android. Classic Metro tiles, 
 | | | |
 |:---:|:---:|:---:|
 | ![](screenshots/main.png) | ![](screenshots/applist.png) | ![](screenshots/launchersettings.png) |
-| ![](screenshots/metrosettings.png) | | |
+| ![](screenshots/metrosettings.jpg) | | |
 
 ## Features
 
